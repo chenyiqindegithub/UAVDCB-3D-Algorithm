@@ -1,0 +1,6 @@
+PROBLEM_FILE = D:\BigYiEr\code\share\LKH\TSPLIB\tsp_problem.tsp
+MOVE_TYPE = 5
+PATCHING_C = 3
+PATCHING_A = 2
+RUNS = 10
+TOUR_FILE = D:\BigYiEr\code\share\LKH\TSPLIB\tsp_problem.tour
